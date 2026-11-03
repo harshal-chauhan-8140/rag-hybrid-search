@@ -1,0 +1,15 @@
+[
+    {"question": "What is the physiotherapy limit on the Silver plan?", "expected": ["silver#sec4.2#001", "circular#2025-03#001"]},
+    {"question": "What does the GP-7 rider cover?", "expected": ["riders#gp7#001"]},
+    {"question": "Will you pay for my physio if the clinic isn't on your list?", "expected": ["gold#sec4.2#001", "silver#sec4.2#001"]},
+    {"question": "How long do I wait before maternity is covered?", "expected": ["silver#sec5.1#001", "gold#sec5.1#001"]},
+    {"question": "cashless claim process at a network hospital", "expected": ["claims#sec1#001"]},
+    {"question": "Is dental covered?", "expected": ["silver#sec4.3#001", "gold#sec4.3#001"]},
+    {"question": "how many hours before physio do I need approval", "expected": ["silver#sec4.2#002"]},
+    {"question": "what was the physio limit revised to in April", "expected": ["circular#2025-03#001"]},
+    {"question": "daily cash benefit during a hospital stay", "expected": ["riders#gp2#001"]},
+    {"question": "room rent sub-limit for ICU", "expected": ["silver#sec6.1#001"]},
+    {"question": "deadline to appeal a rejected claim", "expected": ["claims#sec3#001"]},
+    {"question": "free health checkup", "expected": ["wellness#sec1#001"]}
+  ]
+  
